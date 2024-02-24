@@ -1,0 +1,1 @@
+terrafom init - is only interested in provider-related stuff
